@@ -1,5 +1,3 @@
 .idea
 dist
 node_modules
-src/面试题.js
-src/二叉树.js
