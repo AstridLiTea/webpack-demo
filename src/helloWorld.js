@@ -1,4 +1,7 @@
 export function helloWorld(name) {
-    console.log("abc")
-    return `Hello ${name}`;
+    return `Hello ，${getName(name)}`;
 }
+
+const getName = (name) => {
+    return `I am ${name}, What's your name?`;
+};
