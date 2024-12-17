@@ -1,2 +1,3 @@
 import {helloWorld}  from "./helloWorld";
-document.write(helloWorld("astrid"));
+import {test}  from "./test";
+document.write(helloWorld("astrid")+test());
