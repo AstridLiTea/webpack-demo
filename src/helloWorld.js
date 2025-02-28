@@ -1,8 +1,12 @@
 export function helloWorld(name) {
-    console.log("Hello 蔡徐坤")
     return `Hello ，${getName(name)}`;
 }
 
 const getName = (name) => {
-    return `I am ${name}, What's your name?`;
+    return `I am ${name}, What's your name? revert111212`;
 };
+const revert11 = (name) => {
+    return `I am ${name}, What's your name? revert111212`;
+};
+
+
